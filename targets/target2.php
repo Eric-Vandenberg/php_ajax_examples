@@ -1,0 +1,9 @@
+<?php
+
+$html = '
+    <div class="loaded_content">
+        The weather is sunny and 70 degrees
+        <img src="http://icons.iconarchive.com/icons/icons-land/weather/256/Sunny-icon.png" style="float:right">
+    </div>';
+echo $html;
+?>
